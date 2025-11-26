@@ -27,8 +27,3 @@
 * **Standalone**: 외부 라이브러리 의존성 없음 (Standard Library 사용)
 * **Executable**: `PyInstaller`를 통해 `.exe` 실행 파일로 변환 가능
 
-## 🚀 How to Run
-
-### 1. GUI 버전 실행 (Windows 창)
-```bash
-python mbti_gui.py
